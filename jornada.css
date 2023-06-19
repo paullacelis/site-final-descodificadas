@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(245, 167, 192);
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: purple;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    
+}
+
+.logo img {
+    width: 100px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+
+
+main {
+    padding: 20px;
+}
+
+
+footer {
+    background-color: purple;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+.Texto{
+    text-align: center;
+}
+h1 {
+    font-size: 20px;
+}
+
+a{
+    font-size: 14px;
+}
+footer .retorne a {
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
